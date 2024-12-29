@@ -73,6 +73,11 @@ project-root/
 1. Abra o arquivo `index.html` no navegador.
 2. Insira um nome de usuário na tela de login e comece a conversar!
 
+## ScreenShots
+Login 
+![image](https://github.com/user-attachments/assets/74e93b3d-eaec-4eb3-8d82-d6e82ab53d80)
+
+
 ## Contribuição
 Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades.
 
